@@ -48,8 +48,12 @@ Here's a walkthrough of implemented user stories:
     - <https://blog.hubspot.com/website/css-id#:~:text=A%20CSS%20ID%20selector%20uses,to%20the%20element%20in%20brackets.>
     - <https://stackoverflow.com/questions/11497094/remove-border-from-buttons>
     - <https://stackoverflow.com/questions/12640718/adding-css-class-to-multiple-elements>
+    - <https://stackoverflow.com/questions/38377062/how-to-make-html-button-look-pressed-in-using-css/38377286>
+    - <https://stackoverflow.com/questions/31159472/how-to-make-two-buttons-the-same-size/31159582>
+    - <https://stackoverflow.com/questions/9601357/placing-border-inside-of-div-and-not-on-its-edge>
     - <https://www.w3schools.com/cssref/pr_border-color.asp>
     - <https://www.w3schools.com/js/js_events.>
+    - <https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing>
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)   
 
