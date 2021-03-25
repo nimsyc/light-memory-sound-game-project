@@ -6,7 +6,7 @@ Submitted by: **Nimsy Corea**
 
 Time spent: **4:13-5:42** hours spent in total (finished at 3:13 but tried to add more until 4:42)
 
-Link to project: <https://glitch.com/edit/#!/tangible-soapy-tuesday>
+Link to project: <https://tangible-soapy-tuesday.glitch.me/>
 
 ## Required Functionality
 
