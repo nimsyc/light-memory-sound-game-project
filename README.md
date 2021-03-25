@@ -34,7 +34,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] Changed the tab name for the game
+- [x] Changed the tab name for the game
 
 ## Video Walkthrough
 
@@ -48,12 +48,16 @@ Here's a walkthrough of implemented user stories:
     - <https://blog.hubspot.com/website/css-id#:~:text=A%20CSS%20ID%20selector%20uses,to%20the%20element%20in%20brackets.>
     - <https://stackoverflow.com/questions/11497094/remove-border-from-buttons>
     - <https://stackoverflow.com/questions/12640718/adding-css-class-to-multiple-elements>
+    - <https://stackoverflow.com/questions/38377062/how-to-make-html-button-look-pressed-in-using-css/38377286>
+    - <https://stackoverflow.com/questions/31159472/how-to-make-two-buttons-the-same-size/31159582>
+    - <https://stackoverflow.com/questions/9601357/placing-border-inside-of-div-and-not-on-its-edge>
     - <https://www.w3schools.com/cssref/pr_border-color.asp>
     - <https://www.w3schools.com/js/js_events.>
+    - <https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing>
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)   
 
-Im not too familiar with javascript and I found myself wanting to do things I didn't know how to. One aspect I didn't think about was how
+I'm not too familiar with javascript and I found myself wanting to do things I didn't know how to. One aspect I didn't think about was how
 important the design of a website is, as well. I knew I didn't want to use the same colors as the ones given but it took me a while to
 figure out which ones look well together. I've looked at the source code of other website before, but I don't really think about how 
 empty it can be. When I'm programming each individual thing and have the window maximized, it looks like I'm wasting a lot of space.
@@ -82,13 +86,13 @@ by adding some of the code in \<script>\</script> tags, I couldn't figure out ho
 with researching how to do it I did learn a lot, still. First I tried using document.write() to add \<script>\</script> tags to the HTML file after it has loaded,
 but I learned that using document.write() can override the whole HTML file if it has already loaded. I then tried to call with innerHTML(), while that did
 add the script tags to the HTML file, it didn't run the script with the confetti. At that point I was stuck, but I feel with a lot more time
-researching I could get it to work. Sadly I don't have a lot of time with all the classes I have too. I also wanted to add more visual effects to the buttons.
+researching I could get it to work. Sadly I don't have a lot of time with all the classes I have too. ~~I also wanted to add more visual effects to the buttons.
 For the start and stop buttons, I wanted them to get darker on click and go back to their original color afterwards. On another website I made, there
-was a glowing effect for buttons, and that would look very nice with the game buttons I implemented. A lot of the optional requirements were very cool as well.
+was a glowing effect for buttons, and that would look very nice with the game buttons I implemented.~~ A lot of the optional requirements were very cool as well.
 A random pattern is how I thought we were going to program it, at first. It's a little frustrating that I can explain how I could go about coding it, but
 in terms of actually writing the code and implementing, I'm not familiar enough with javascript to know what I'm doing, yet. I also thought this game somewhat
-resembled a "Bop it" toy, so I could've added other options such as, spinning the buttons, pressing for a certain amount, etc. I also could've added
-some sort of line break between the buttons so that they're always in a square format. Similarly to that, I could get the size of the buttoms to change
+resembled a "Bop it" toy, so I could've added other options such as, spinning the buttons, pressing for a certain amount, etc. ~~I also could've added
+some sort of line break between the buttons so that they're always in a square format.~~ Similarly to that, I could get the size of the buttoms to change
 depending on the screen size so that it's playable on mobile, too.
 
 
